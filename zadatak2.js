@@ -24,6 +24,6 @@ function DaniUTjednu{
         default:
             break;
     }
-
+console.log(DaniUTjednu)
 };
 
