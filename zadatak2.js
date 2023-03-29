@@ -1,4 +1,4 @@
-function DaniUTjednu{
+function DaniUTjednu(){
     var Dan = 0;
     switch (Dan) {
         case 1:
